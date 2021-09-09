@@ -1,0 +1,30 @@
+C:\Users\B'lgenur\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\B'lgenur\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\B'lgenur\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\B'lgenur\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\B'lgenur\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\B'lgenur\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\B'lgenur\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\B'lgenur\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\B'lgenur\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\B'lgenur\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\bilgenur\source\repos\WindowsFormsApp(take_add)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\bilgenur\source\repos\WindowsFormsApp(take_add)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\bilgenur\source\repos\WindowsFormsApp(take_add)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\bilgenur\source\repos\WindowsFormsApp(take_add)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\bilgenur\source\repos\WindowsFormsApp(take_add)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\bilgenur\source\repos\WindowsFormsApp(take_add)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\bilgenur\source\repos\WindowsFormsApp(take_add)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\bilgenur\source\repos\WindowsFormsApp(take_add)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\bilgenur\source\repos\WindowsFormsApp(take_add)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\bilgenur\source\repos\WindowsFormsApp(take_add)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#FormsApp(take_add)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#FormsApp(take_add)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#FormsApp(take_add)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#FormsApp(take_add)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#FormsApp(take_add)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#FormsApp(take_add)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#FormsApp(take_add)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#FormsApp(take_add)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#FormsApp(take_add)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#FormsApp(take_add)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
