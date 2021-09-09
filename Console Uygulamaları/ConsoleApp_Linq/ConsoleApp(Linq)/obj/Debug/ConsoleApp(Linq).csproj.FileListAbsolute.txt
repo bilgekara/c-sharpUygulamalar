@@ -1,0 +1,7 @@
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\ConsoleApp_Linq\ConsoleApp(Linq)\obj\Debug\ConsoleApp(Linq).csproj.AssemblyReference.cache
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\ConsoleApp_Linq\ConsoleApp(Linq)\obj\Debug\ConsoleApp(Linq).csproj.CoreCompileInputs.cache
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\ConsoleApp_Linq\ConsoleApp(Linq)\bin\Debug\ConsoleApp(Linq).exe.config
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\ConsoleApp_Linq\ConsoleApp(Linq)\bin\Debug\ConsoleApp(Linq).exe
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\ConsoleApp_Linq\ConsoleApp(Linq)\bin\Debug\ConsoleApp(Linq).pdb
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\ConsoleApp_Linq\ConsoleApp(Linq)\obj\Debug\ConsoleApp(Linq).exe
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\ConsoleApp_Linq\ConsoleApp(Linq)\obj\Debug\ConsoleApp(Linq).pdb

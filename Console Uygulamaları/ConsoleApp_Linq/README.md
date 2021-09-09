@@ -1,0 +1,1 @@
+-* Bazı linq sorguları
