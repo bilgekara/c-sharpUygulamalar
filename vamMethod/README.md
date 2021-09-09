@@ -16,3 +16,7 @@ Optimizasyon yöneylem araştırmalarından biri olan bu metod c# form uygulamas
  Son Görünüm :
 
 <img align="left"  width="400px" src="./pic/3.png" />
+
+
+
+
