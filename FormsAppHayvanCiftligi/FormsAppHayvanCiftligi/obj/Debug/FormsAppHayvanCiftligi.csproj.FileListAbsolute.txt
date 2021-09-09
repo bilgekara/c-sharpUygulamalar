@@ -8,3 +8,13 @@ C:\Users\karab\source\repos\FormsAppHayvanCiftligi\FormsAppHayvanCiftligi\obj\De
 C:\Users\karab\source\repos\FormsAppHayvanCiftligi\FormsAppHayvanCiftligi\obj\Debug\FormsAppHayvanCiftligi.csproj.CoreCompileInputs.cache
 C:\Users\karab\source\repos\FormsAppHayvanCiftligi\FormsAppHayvanCiftligi\obj\Debug\FormsAppHayvanCiftligi.exe
 C:\Users\karab\source\repos\FormsAppHayvanCiftligi\FormsAppHayvanCiftligi\obj\Debug\FormsAppHayvanCiftligi.pdb
+C:\Users\karab\Documents\GitHub\c-sharpUygulamalar\FormsAppHayvanCiftligi\FormsAppHayvanCiftligi\bin\Debug\FormsAppHayvanCiftligi.exe.config
+C:\Users\karab\Documents\GitHub\c-sharpUygulamalar\FormsAppHayvanCiftligi\FormsAppHayvanCiftligi\bin\Debug\FormsAppHayvanCiftligi.exe
+C:\Users\karab\Documents\GitHub\c-sharpUygulamalar\FormsAppHayvanCiftligi\FormsAppHayvanCiftligi\bin\Debug\FormsAppHayvanCiftligi.pdb
+C:\Users\karab\Documents\GitHub\c-sharpUygulamalar\FormsAppHayvanCiftligi\FormsAppHayvanCiftligi\obj\Debug\FormsAppHayvanCiftligi.csproj.AssemblyReference.cache
+C:\Users\karab\Documents\GitHub\c-sharpUygulamalar\FormsAppHayvanCiftligi\FormsAppHayvanCiftligi\obj\Debug\FormsAppHayvanCiftligi.Form1.resources
+C:\Users\karab\Documents\GitHub\c-sharpUygulamalar\FormsAppHayvanCiftligi\FormsAppHayvanCiftligi\obj\Debug\FormsAppHayvanCiftligi.Properties.Resources.resources
+C:\Users\karab\Documents\GitHub\c-sharpUygulamalar\FormsAppHayvanCiftligi\FormsAppHayvanCiftligi\obj\Debug\FormsAppHayvanCiftligi.csproj.GenerateResource.cache
+C:\Users\karab\Documents\GitHub\c-sharpUygulamalar\FormsAppHayvanCiftligi\FormsAppHayvanCiftligi\obj\Debug\FormsAppHayvanCiftligi.csproj.CoreCompileInputs.cache
+C:\Users\karab\Documents\GitHub\c-sharpUygulamalar\FormsAppHayvanCiftligi\FormsAppHayvanCiftligi\obj\Debug\FormsAppHayvanCiftligi.exe
+C:\Users\karab\Documents\GitHub\c-sharpUygulamalar\FormsAppHayvanCiftligi\FormsAppHayvanCiftligi\obj\Debug\FormsAppHayvanCiftligi.pdb

@@ -74,6 +74,12 @@ namespace FormsAppHayvanCiftligi
             this.labelUrunDeposu = new System.Windows.Forms.Label();
             this.panelAhir = new System.Windows.Forms.Panel();
             this.buttonKeciYem = new System.Windows.Forms.Button();
+            this.labelAdetTavuk = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.labelnekkg = new System.Windows.Forms.Label();
+            this.labelKecikg = new System.Windows.Forms.Label();
+            this.labelSNAdet = new System.Windows.Forms.Label();
+            this.labelTLAdet = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxInek)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxKeci)).BeginInit();
             this.panelKumes.SuspendLayout();
@@ -486,6 +492,7 @@ namespace FormsAppHayvanCiftligi
             // panelKasa
             // 
             this.panelKasa.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.panelKasa.Controls.Add(this.labelTLAdet);
             this.panelKasa.Controls.Add(this.labelTL);
             this.panelKasa.Controls.Add(this.labelKasa);
             this.panelKasa.Location = new System.Drawing.Point(753, 132);
@@ -520,6 +527,7 @@ namespace FormsAppHayvanCiftligi
             // panelGecenSure
             // 
             this.panelGecenSure.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.panelGecenSure.Controls.Add(this.labelSNAdet);
             this.panelGecenSure.Controls.Add(this.labelSN);
             this.panelGecenSure.Controls.Add(this.labelGecenSure);
             this.panelGecenSure.Location = new System.Drawing.Point(753, 12);
@@ -554,6 +562,10 @@ namespace FormsAppHayvanCiftligi
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.panel1.Controls.Add(this.labelKecikg);
+            this.panel1.Controls.Add(this.labelnekkg);
+            this.panel1.Controls.Add(this.label1);
+            this.panel1.Controls.Add(this.labelAdetTavuk);
             this.panel1.Controls.Add(this.labelInekSutu);
             this.panel1.Controls.Add(this.labelTavukYumurtasi);
             this.panel1.Controls.Add(this.label8);
@@ -610,6 +622,66 @@ namespace FormsAppHayvanCiftligi
             this.buttonKeciYem.UseVisualStyleBackColor = false;
             this.buttonKeciYem.Click += new System.EventHandler(this.buttonKeciYem_Click);
             // 
+            // labelAdetTavuk
+            // 
+            this.labelAdetTavuk.AutoSize = true;
+            this.labelAdetTavuk.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.labelAdetTavuk.Location = new System.Drawing.Point(154, 104);
+            this.labelAdetTavuk.Name = "labelAdetTavuk";
+            this.labelAdetTavuk.Size = new System.Drawing.Size(36, 17);
+            this.labelAdetTavuk.TabIndex = 28;
+            this.labelAdetTavuk.Text = "adet";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.label1.Location = new System.Drawing.Point(154, 181);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(36, 17);
+            this.label1.TabIndex = 29;
+            this.label1.Text = "adet";
+            // 
+            // labelnekkg
+            // 
+            this.labelnekkg.AutoSize = true;
+            this.labelnekkg.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.labelnekkg.Location = new System.Drawing.Point(370, 104);
+            this.labelnekkg.Name = "labelnekkg";
+            this.labelnekkg.Size = new System.Drawing.Size(23, 17);
+            this.labelnekkg.TabIndex = 30;
+            this.labelnekkg.Text = "kg";
+            // 
+            // labelKecikg
+            // 
+            this.labelKecikg.AutoSize = true;
+            this.labelKecikg.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.labelKecikg.Location = new System.Drawing.Point(370, 181);
+            this.labelKecikg.Name = "labelKecikg";
+            this.labelKecikg.Size = new System.Drawing.Size(23, 17);
+            this.labelKecikg.TabIndex = 31;
+            this.labelKecikg.Text = "kg";
+            // 
+            // labelSNAdet
+            // 
+            this.labelSNAdet.AutoSize = true;
+            this.labelSNAdet.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.labelSNAdet.Location = new System.Drawing.Point(106, 66);
+            this.labelSNAdet.Name = "labelSNAdet";
+            this.labelSNAdet.Size = new System.Drawing.Size(27, 17);
+            this.labelSNAdet.TabIndex = 32;
+            this.labelSNAdet.Text = "SN";
+            // 
+            // labelTLAdet
+            // 
+            this.labelTLAdet.AutoSize = true;
+            this.labelTLAdet.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.labelTLAdet.Location = new System.Drawing.Point(106, 61);
+            this.labelTLAdet.Name = "labelTLAdet";
+            this.labelTLAdet.Size = new System.Drawing.Size(25, 17);
+            this.labelTLAdet.TabIndex = 31;
+            this.labelTLAdet.Text = "TL";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -629,8 +701,11 @@ namespace FormsAppHayvanCiftligi
             this.splitContainer1.ResumeLayout(false);
             this.panelGidaFabrikasi.ResumeLayout(false);
             this.panelKasa.ResumeLayout(false);
+            this.panelKasa.PerformLayout();
             this.panelGecenSure.ResumeLayout(false);
+            this.panelGecenSure.PerformLayout();
             this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.panelAhir.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -682,6 +757,12 @@ namespace FormsAppHayvanCiftligi
         private System.Windows.Forms.Label labelUrunDeposu;
         private System.Windows.Forms.Panel panelAhir;
         private System.Windows.Forms.Button buttonKeciYem;
+        private System.Windows.Forms.Label labelTLAdet;
+        private System.Windows.Forms.Label labelSNAdet;
+        private System.Windows.Forms.Label labelKecikg;
+        private System.Windows.Forms.Label labelnekkg;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label labelAdetTavuk;
     }
 }
 
