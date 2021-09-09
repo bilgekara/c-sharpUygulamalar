@@ -1,0 +1,7 @@
+C:\Users\bilgenur\source\repos\ConsoleAppFutbolcu\ConsoleAppFutbolcu\obj\Debug\ConsoleAppFutbolcu.csprojAssemblyReference.cache
+C:\Users\bilgenur\source\repos\ConsoleAppFutbolcu\ConsoleAppFutbolcu\obj\Debug\ConsoleAppFutbolcu.csproj.CoreCompileInputs.cache
+C:\Users\bilgenur\source\repos\ConsoleAppFutbolcu\ConsoleAppFutbolcu\bin\Debug\ConsoleAppFutbolcu.exe.config
+C:\Users\bilgenur\source\repos\ConsoleAppFutbolcu\ConsoleAppFutbolcu\bin\Debug\ConsoleAppFutbolcu.exe
+C:\Users\bilgenur\source\repos\ConsoleAppFutbolcu\ConsoleAppFutbolcu\bin\Debug\ConsoleAppFutbolcu.pdb
+C:\Users\bilgenur\source\repos\ConsoleAppFutbolcu\ConsoleAppFutbolcu\obj\Debug\ConsoleAppFutbolcu.exe
+C:\Users\bilgenur\source\repos\ConsoleAppFutbolcu\ConsoleAppFutbolcu\obj\Debug\ConsoleAppFutbolcu.pdb
