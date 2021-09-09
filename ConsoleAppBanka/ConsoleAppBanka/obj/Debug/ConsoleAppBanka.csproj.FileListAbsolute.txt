@@ -1,0 +1,7 @@
+C:\Users\bilgenur\source\repos\ConsoleAppBanka\ConsoleAppBanka\bin\Debug\ConsoleAppBanka.exe.config
+C:\Users\bilgenur\source\repos\ConsoleAppBanka\ConsoleAppBanka\bin\Debug\ConsoleAppBanka.exe
+C:\Users\bilgenur\source\repos\ConsoleAppBanka\ConsoleAppBanka\bin\Debug\ConsoleAppBanka.pdb
+C:\Users\bilgenur\source\repos\ConsoleAppBanka\ConsoleAppBanka\obj\Debug\ConsoleAppBanka.csprojAssemblyReference.cache
+C:\Users\bilgenur\source\repos\ConsoleAppBanka\ConsoleAppBanka\obj\Debug\ConsoleAppBanka.csproj.CoreCompileInputs.cache
+C:\Users\bilgenur\source\repos\ConsoleAppBanka\ConsoleAppBanka\obj\Debug\ConsoleAppBanka.exe
+C:\Users\bilgenur\source\repos\ConsoleAppBanka\ConsoleAppBanka\obj\Debug\ConsoleAppBanka.pdb
