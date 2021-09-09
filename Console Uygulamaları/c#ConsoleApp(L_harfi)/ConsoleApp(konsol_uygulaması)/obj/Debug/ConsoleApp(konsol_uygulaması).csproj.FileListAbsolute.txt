@@ -1,0 +1,21 @@
+C:\Users\B'lgenur\source\repos\ConsoleApp(konsol_uygulaması)\ConsoleApp(konsol_uygulaması)\obj\Debug\ConsoleApp(konsol_uygulaması).csprojResolveAssemblyReference.cache
+C:\Users\B'lgenur\source\repos\ConsoleApp(konsol_uygulaması)\ConsoleApp(konsol_uygulaması)\obj\Debug\ConsoleApp(konsol_uygulaması).csproj.CoreCompileInputs.cache
+C:\Users\B'lgenur\source\repos\ConsoleApp(konsol_uygulaması)\ConsoleApp(konsol_uygulaması)\bin\Debug\ConsoleApp(konsol_uygulaması).exe.config
+C:\Users\B'lgenur\source\repos\ConsoleApp(konsol_uygulaması)\ConsoleApp(konsol_uygulaması)\bin\Debug\ConsoleApp(konsol_uygulaması).exe
+C:\Users\B'lgenur\source\repos\ConsoleApp(konsol_uygulaması)\ConsoleApp(konsol_uygulaması)\bin\Debug\ConsoleApp(konsol_uygulaması).pdb
+C:\Users\B'lgenur\source\repos\ConsoleApp(konsol_uygulaması)\ConsoleApp(konsol_uygulaması)\obj\Debug\ConsoleApp(konsol_uygulaması).exe
+C:\Users\B'lgenur\source\repos\ConsoleApp(konsol_uygulaması)\ConsoleApp(konsol_uygulaması)\obj\Debug\ConsoleApp(konsol_uygulaması).pdb
+C:\Users\bilgenur\source\repos\ConsoleApp(konsol_uygulaması)\ConsoleApp(konsol_uygulaması)\bin\Debug\ConsoleApp(konsol_uygulaması).exe.config
+C:\Users\bilgenur\source\repos\ConsoleApp(konsol_uygulaması)\ConsoleApp(konsol_uygulaması)\bin\Debug\ConsoleApp(konsol_uygulaması).exe
+C:\Users\bilgenur\source\repos\ConsoleApp(konsol_uygulaması)\ConsoleApp(konsol_uygulaması)\bin\Debug\ConsoleApp(konsol_uygulaması).pdb
+C:\Users\bilgenur\source\repos\ConsoleApp(konsol_uygulaması)\ConsoleApp(konsol_uygulaması)\obj\Debug\ConsoleApp(konsol_uygulaması).csprojAssemblyReference.cache
+C:\Users\bilgenur\source\repos\ConsoleApp(konsol_uygulaması)\ConsoleApp(konsol_uygulaması)\obj\Debug\ConsoleApp(konsol_uygulaması).csproj.CoreCompileInputs.cache
+C:\Users\bilgenur\source\repos\ConsoleApp(konsol_uygulaması)\ConsoleApp(konsol_uygulaması)\obj\Debug\ConsoleApp(konsol_uygulaması).exe
+C:\Users\bilgenur\source\repos\ConsoleApp(konsol_uygulaması)\ConsoleApp(konsol_uygulaması)\obj\Debug\ConsoleApp(konsol_uygulaması).pdb
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\c#ConsoleApp(L_harfi)\ConsoleApp(konsol_uygulaması)\bin\Debug\ConsoleApp(konsol_uygulaması).exe.config
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\c#ConsoleApp(L_harfi)\ConsoleApp(konsol_uygulaması)\bin\Debug\ConsoleApp(konsol_uygulaması).exe
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\c#ConsoleApp(L_harfi)\ConsoleApp(konsol_uygulaması)\bin\Debug\ConsoleApp(konsol_uygulaması).pdb
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\c#ConsoleApp(L_harfi)\ConsoleApp(konsol_uygulaması)\obj\Debug\ConsoleApp(konsol_uygulaması).csproj.AssemblyReference.cache
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\c#ConsoleApp(L_harfi)\ConsoleApp(konsol_uygulaması)\obj\Debug\ConsoleApp(konsol_uygulaması).csproj.CoreCompileInputs.cache
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\c#ConsoleApp(L_harfi)\ConsoleApp(konsol_uygulaması)\obj\Debug\ConsoleApp(konsol_uygulaması).exe
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\c#ConsoleApp(L_harfi)\ConsoleApp(konsol_uygulaması)\obj\Debug\ConsoleApp(konsol_uygulaması).pdb
