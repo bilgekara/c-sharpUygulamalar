@@ -1,0 +1,1 @@
+Bu klasör yerel disk c'ye konulacak
