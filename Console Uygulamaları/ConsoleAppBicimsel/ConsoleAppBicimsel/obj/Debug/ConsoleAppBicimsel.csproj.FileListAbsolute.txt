@@ -1,0 +1,14 @@
+C:\Users\bilgenur\source\repos\ConsoleAppBicimsel\ConsoleAppBicimsel\bin\Debug\ConsoleAppBicimsel.exe.config
+C:\Users\bilgenur\source\repos\ConsoleAppBicimsel\ConsoleAppBicimsel\bin\Debug\ConsoleAppBicimsel.exe
+C:\Users\bilgenur\source\repos\ConsoleAppBicimsel\ConsoleAppBicimsel\bin\Debug\ConsoleAppBicimsel.pdb
+C:\Users\bilgenur\source\repos\ConsoleAppBicimsel\ConsoleAppBicimsel\obj\Debug\ConsoleAppBicimsel.csprojAssemblyReference.cache
+C:\Users\bilgenur\source\repos\ConsoleAppBicimsel\ConsoleAppBicimsel\obj\Debug\ConsoleAppBicimsel.csproj.CoreCompileInputs.cache
+C:\Users\bilgenur\source\repos\ConsoleAppBicimsel\ConsoleAppBicimsel\obj\Debug\ConsoleAppBicimsel.exe
+C:\Users\bilgenur\source\repos\ConsoleAppBicimsel\ConsoleAppBicimsel\obj\Debug\ConsoleAppBicimsel.pdb
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\ConsoleAppBicimsel\ConsoleAppBicimsel\bin\Debug\ConsoleAppBicimsel.exe.config
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\ConsoleAppBicimsel\ConsoleAppBicimsel\bin\Debug\ConsoleAppBicimsel.exe
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\ConsoleAppBicimsel\ConsoleAppBicimsel\bin\Debug\ConsoleAppBicimsel.pdb
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\ConsoleAppBicimsel\ConsoleAppBicimsel\obj\Debug\ConsoleAppBicimsel.csproj.AssemblyReference.cache
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\ConsoleAppBicimsel\ConsoleAppBicimsel\obj\Debug\ConsoleAppBicimsel.csproj.CoreCompileInputs.cache
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\ConsoleAppBicimsel\ConsoleAppBicimsel\obj\Debug\ConsoleAppBicimsel.exe
+C:\Users\karab\Documents\Places\Containers\Works\Console Uygulamaları\ConsoleAppBicimsel\ConsoleAppBicimsel\obj\Debug\ConsoleAppBicimsel.pdb
