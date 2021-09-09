@@ -8,6 +8,6 @@
 
 Oyuna ait ekran görüntileri :
  
-<img align="left" width="700px" src="pic/1.png" />
+<img align="left" width="630px" src="pic/1.png" />
 ---
-<img align="left" width="700px" src="pic/2.png" />
+<img align="right" width="630px" src="pic/2.png" />
