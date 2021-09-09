@@ -1,0 +1,30 @@
+C:\Users\B'lgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.csprojResolveAssemblyReference.cache
+C:\Users\B'lgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.Form1.resources
+C:\Users\B'lgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.Properties.Resources.resources
+C:\Users\B'lgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.csproj.GenerateResource.cache
+C:\Users\B'lgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.csproj.CoreCompileInputs.cache
+C:\Users\B'lgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\bin\Debug\yzkl_form_hesapla.exe.config
+C:\Users\B'lgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\bin\Debug\yzkl_form_hesapla.exe
+C:\Users\B'lgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\bin\Debug\yzkl_form_hesapla.pdb
+C:\Users\B'lgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.exe
+C:\Users\B'lgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.pdb
+C:\Users\bilgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\bin\Debug\yzkl_form_hesapla.exe.config
+C:\Users\bilgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\bin\Debug\yzkl_form_hesapla.exe
+C:\Users\bilgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\bin\Debug\yzkl_form_hesapla.pdb
+C:\Users\bilgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.csprojAssemblyReference.cache
+C:\Users\bilgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.Form1.resources
+C:\Users\bilgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.Properties.Resources.resources
+C:\Users\bilgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.csproj.GenerateResource.cache
+C:\Users\bilgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.csproj.CoreCompileInputs.cache
+C:\Users\bilgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.exe
+C:\Users\bilgenur\source\repos\yzkl_form_hesapla\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.pdb
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#Form(yzkl_hesapla)\yzkl_form_hesapla\bin\Debug\yzkl_form_hesapla.exe.config
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#Form(yzkl_hesapla)\yzkl_form_hesapla\bin\Debug\yzkl_form_hesapla.exe
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#Form(yzkl_hesapla)\yzkl_form_hesapla\bin\Debug\yzkl_form_hesapla.pdb
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#Form(yzkl_hesapla)\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.csproj.AssemblyReference.cache
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#Form(yzkl_hesapla)\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.Form1.resources
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#Form(yzkl_hesapla)\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.Properties.Resources.resources
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#Form(yzkl_hesapla)\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.csproj.GenerateResource.cache
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#Form(yzkl_hesapla)\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.csproj.CoreCompileInputs.cache
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#Form(yzkl_hesapla)\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.exe
+C:\Users\karab\Documents\Places\Containers\Works\Form Uygulamaları\c#Form(yzkl_hesapla)\yzkl_form_hesapla\obj\Debug\yzkl_form_hesapla.pdb
